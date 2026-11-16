@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/akhacker3696-hash/CAP2012_CA3_LeetCode_12502160/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/akhacker3696-hash/CAP2012_CA3_LeetCode_12502160/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/akhacker3696-hash/CAP2012_CA3_LeetCode_12502160/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
